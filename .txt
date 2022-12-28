@@ -1,0 +1,17 @@
+npm i bcrypt
+
+   // generate new password
+
+
+    // create new password
+
+
+    // save user and send response
+
+
+// best approch for key
+<tbody>
+    {rows.map((row) => {
+        return <ObjectRow key={row.uniqueId} />;
+    })}
+</tbody>
